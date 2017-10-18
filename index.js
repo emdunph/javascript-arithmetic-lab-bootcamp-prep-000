@@ -5,6 +5,6 @@ function add(a, b) {
   return a += b
 }
 
-function subtract() {
+function subtract(a, b) {
   return a -= b
 }
