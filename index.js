@@ -1,6 +1,6 @@
-var a = 5
+var a = 1000
 
 function add(){
-  a += 3 
+  a += 271 
 
 }
