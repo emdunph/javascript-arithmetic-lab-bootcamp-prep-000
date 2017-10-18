@@ -1,6 +1,7 @@
 var a = 10
 var b = 5
 var n = 10
+var w = 2
 
 function add(a, b) {
   return a += b
@@ -19,5 +20,5 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  n+= 5
+  n+= w
 }
