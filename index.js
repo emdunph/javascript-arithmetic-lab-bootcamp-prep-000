@@ -1,6 +1,7 @@
 var number = 10
+var number2 = 2
 
-function add5(){
-  parseInt(number += 5)
+function add(){
+  return number + number2;
 
 }
