@@ -18,7 +18,7 @@ function divide(a, b) {
   return a /= b
 }
 
-function add5() {
+function inc(n) {
   n += 5
 }
 
