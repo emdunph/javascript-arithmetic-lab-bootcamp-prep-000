@@ -7,4 +7,5 @@ function add5() {
 
 
 }
+add5()
 console.log(a)//15
