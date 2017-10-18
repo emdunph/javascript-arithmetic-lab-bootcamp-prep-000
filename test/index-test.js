@@ -22,7 +22,7 @@ it('divide(a, b) divides a by b and returns the result', function() {
 })
 
 it('inc(n) increments n and returns the result', function() {
-  expect(inc(a)).toEqual(a + 1)
+  expect(inc(n)).toEqual(a + 1)
 })
 
 it('dec(n) decrements n and returns the result', function() {
