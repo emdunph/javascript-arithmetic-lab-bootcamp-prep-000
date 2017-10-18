@@ -19,5 +19,5 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  n++
+  n+= 5
 }
