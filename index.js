@@ -19,7 +19,7 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  return n += 5
+  return n += 0
 }
 
 function dec(n){}
