@@ -5,6 +5,6 @@ function add(a, b) {
   return a += b
 }
 
-function divideBy3() {
-  number /= 3
+function subtract() {
+  return a -= b
 }
