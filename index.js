@@ -1,17 +1,10 @@
-var number = 10
 
-function add5() {
-  number += 5
+function add(){
+1 + 80 // 81
 }
 
-function divideBy3() {
-  number /= 3
-}
+60 - 40 // 20
 
-divideBy3()
+2 * 3.4 // 6.8
 
-console.log(number) // 3.333333333335
-
-add5()
-
-console.log(number) // 15
+5 / 2.5 // 2
