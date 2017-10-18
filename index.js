@@ -1,6 +1,6 @@
 var number = 10
 
 function add5(){
-  a += 5
+  number += 5
 
 }
