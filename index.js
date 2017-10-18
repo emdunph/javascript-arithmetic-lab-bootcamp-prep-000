@@ -24,7 +24,7 @@ function inc(n) {
 }
 
 function dec(n){
-  return n--
+  console.log( 'n--')
 }
 function makeInt(n){}
 function preserveDecimal(n){}
