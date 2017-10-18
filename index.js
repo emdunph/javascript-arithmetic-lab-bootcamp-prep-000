@@ -18,8 +18,8 @@ function divide(a, b) {
   return a /= b
 }
 
-function inc(n) {
-  n ++
+function add5() {
+  n += 5
 }
 
 function dec(n){}
