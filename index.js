@@ -1,4 +1,6 @@
 
+var a = 5
+var b = 2 
 function add(){
-  5 + 2 =
+  console.log (a + b) 
 }
