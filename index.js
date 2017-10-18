@@ -1,6 +1,6 @@
 var a = 10
 var b = 5
-var n = 69
+var n = 10
 
 function add(a, b) {
   return a += b
@@ -19,6 +19,5 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  n++;
-  console.log('n == 423');
+  parseInt('2', 10)
 }
