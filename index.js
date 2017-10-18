@@ -1,7 +1,6 @@
 var a = 10
 var b = 5
-var n = 10
-var w = 2
+var n = 8
 
 function add(a, b) {
   return a += b
