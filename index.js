@@ -1,4 +1,4 @@
-var number = 5
-number ++
-number
-number --
+function add(5) {
+  var number=5
+  5++
+}
