@@ -1,6 +1,6 @@
 var a = 1000
 
 function add(){
-  a += 596
+  a + 596
 
 }
