@@ -19,7 +19,9 @@ function divide(a, b) {
   return a /= b
 }
 
-n++;
+function inc(n) {
+   n++
+}
 
 function dec(n){
   console.log('n--')
