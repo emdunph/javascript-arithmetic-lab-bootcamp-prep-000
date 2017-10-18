@@ -19,6 +19,6 @@ function divide(a, b) {
   return a /= b
 }
 
-function inc(n, w) {
+function inc(n) {
   n+= w
 }
