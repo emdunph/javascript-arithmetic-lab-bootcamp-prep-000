@@ -1,4 +1,4 @@
 
 function add(){
-  return (x + y =)
+  return (5 + 2 =)
 }
