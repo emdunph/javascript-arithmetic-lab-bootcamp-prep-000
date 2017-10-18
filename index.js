@@ -1,6 +1,6 @@
 var a = 5
 
 function add(){
-  var b = 2
-  
+  a += 3 //8
+
 }
