@@ -1,11 +1,11 @@
-var a = 10
-var b = 5
-
+var number = 10
+ 
 function add5() {
-  var a = 10
-  a += 5
-
-
+  number += 5
 }
-add5()
-console.log(a)//15
+ 
+function divideBy3() {
+  number /= 3
+}
+ 
+divideBy3()
