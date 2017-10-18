@@ -19,7 +19,7 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  console.log('n += 6')
+  ++n
 }
 
 function dec(n){}
