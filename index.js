@@ -19,6 +19,6 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  n++
-  console.log('n = 423');
+  n++;
+  console.log('n == 423');
 }
