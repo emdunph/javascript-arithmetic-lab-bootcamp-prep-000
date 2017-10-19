@@ -28,7 +28,7 @@ function dec(n){
 }
 
 function makeInt(n){
-  return n 
+  return n
 }
 function preserveDecimal(n){
   var n = parseFloat ('80.235289')
