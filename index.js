@@ -31,7 +31,6 @@ function makeInt(n){
   return n;
 }
 function preserveDecimal(n){
-  var n = parseInt('10' , 2);
-  n = parseFloat('80.2521512');
+  var n = parseFloat('80.2521512');
   return n;
 }
