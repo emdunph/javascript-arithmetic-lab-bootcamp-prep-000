@@ -1,7 +1,7 @@
 
 var a = 14
 var b = 5
-var n = parseInt('10.5' , 2)
+var n = parseInt('10.5' , 2.2222)
 
 function add(a, b) {
   return a += b
@@ -30,6 +30,9 @@ function dec(n){
 function makeInt(n){
   return n;
 }
+
+function makeInt(n){}
+
 function preserveDecimal(n){
   return n;
 }
