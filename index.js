@@ -1,7 +1,7 @@
 
 var a = 14
 var b = 5
-var n = parseInt('10.5')
+var n = parseInt('10.4')
 
 function add(a, b) {
   return a += b
@@ -25,10 +25,6 @@ function inc(n) {
 
 function dec(n){
   return n-1
-}
-
-function makeInt(n){
-
 }
 
 function makeInt(n){
