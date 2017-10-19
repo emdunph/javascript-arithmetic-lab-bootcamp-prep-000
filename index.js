@@ -1,7 +1,7 @@
 
 var a = 14
 var b = 5
-var n = parseInt('10.4')
+var n = parseInt('2.222222', 10)
 
 function add(a, b) {
   return a += b
